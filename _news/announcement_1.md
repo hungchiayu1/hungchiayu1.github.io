@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-6-22 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our new paper, [Darwin](https://darwin-alignment.github.io/) is availiable!
+
