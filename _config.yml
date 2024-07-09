@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Chia Yu
-middle_name: 
+middle_name:
 last_name: Hung
 email: chiayu_hung@sutd.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hungchiayu1.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -132,9 +132,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_description: 
-permalink: 
+blog_name: # blog_name will be displayed in your blog page
+blog_description:
+permalink:
 enabled: false
 lsi: false # produce an index for related posts
 
@@ -146,8 +146,8 @@ related_blog_posts:
   enabled: false
   max_related: 5
 
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+  # Giscus comments (RECOMMENDED)
+  # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
   giscus:
   repo: # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
@@ -313,7 +313,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Hung 
+  last_name: Hung
   first_name: Chia Yu
 
   style: apa
