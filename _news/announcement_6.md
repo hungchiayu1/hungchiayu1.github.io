@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Darwin](https://darwin-alignment.github.io/) has been accepted to NAACL 2025 main! 
+[Darwin](https://arxiv.org/abs/2406.15193) has been accepted to NAACL 2025 main! 

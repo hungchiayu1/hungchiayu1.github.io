@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper, [Darwin](https://darwin-alignment.github.io/) is availiable!
+Our new paper, [Darwin](https://arxiv.org/abs/2406.15193) is availiable!
