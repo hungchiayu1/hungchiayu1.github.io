@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-24
+date: 2025-05-01
 inline: true
 related_posts: false
 ---
 
-[Darwin](https://arxiv.org/abs/2406.15193) has been accepted to NAACL 2025 (Oral)! 
+We are excited to release [Nora](https://declare-lab.github.io/nora), a VLA based on Qwen 2.5 VL with FAST+ tokenizer!.
