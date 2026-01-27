@@ -15,7 +15,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I earned my Bachelor's degree in Computer Science from Singapore University of Technology and Design (SUTD) in May 2024. I am currently a PhD student at Nanyang Technological University (NTU), fortunately to be advised [Prof. Soujanya Poria](https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en). My research interest lies in MultiModals and Vision Language Action Models. Throughout my undergraduate period, I was fortunate to have opportunity to conduct research under [Prof. Roy Ka-Wei Lee](https://scholar.google.com/citations?user=uQxdOlsAAAAJ&hl=en) and [Prof. Soujanya Poria](https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en).
+ I am currently a 1st year PhD student at Nanyang Technological University (NTU), fortunately to be advised [Prof. Soujanya Poria](https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en). My research interest lies in MultiModals and Vision Language Action Models.
+ 
+ Previously, I earned my Bachelor's degree in Computer Science from Singapore University of Technology and Design (SUTD) in May 2024. Throughout my undergraduate period, I was fortunate to have opportunity to conduct research under [Prof. Roy Ka-Wei Lee](https://scholar.google.com/citations?user=uQxdOlsAAAAJ&hl=en) and [Prof. Soujanya Poria](https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en).
 
 
 Current works: I am working on reinforcement learning with action conditioned world models!! Feel free to email me to chat about this!
