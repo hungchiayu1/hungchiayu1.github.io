@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Darwin](https://arxiv.org/abs/2406.15193) has been accepted to NAACL 2025 (Oral)! 
+[Reward-Guided Tree Search for Inference Time Alignment of Large Language Models](https://aclanthology.org/2025.naacl-long.625.pdf) has been accepted to NAACL 2025 (Oral)! 
